@@ -36,9 +36,5 @@ mxn is the window size which will be printed on the terminal from ZxZ world
 After placing the fixed colony, the game will start and will update and print the grid by following the rules for Conway's Game of Life
 Once the number of iterations matches the user given iteration, the game will stop and the population at that start and end will be printed
 
-# Example
-
-In the following example the 
-
 # Dependency
 Python non-native libraries dependency : numpy and colorama
