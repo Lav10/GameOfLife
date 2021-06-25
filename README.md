@@ -1,5 +1,4 @@
 # GameOfLife
- 
 This is a single piece of code which make it easy for anyone visualize the working of "Conway's Game of Life" in just a terminal using Python3
 
 For full details on Conway's Game of Life, please refer this wikipedia article : https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
@@ -35,6 +34,9 @@ The world will be of configuration ZxZ where Z is the greater value from m and n
 mxn is the window size which will be printed on the terminal from ZxZ world
 After placing the fixed colony, the game will start and will update and print the grid by following the rules for Conway's Game of Life
 Once the number of iterations matches the user given iteration, the game will stop and the population at that start and end will be printed
+
+# Execution
+Please check out this video on youtube for a sample execution of 500 iterations : https://youtu.be/QS1L1OAfXv4
 
 # Dependency
 Python non-native libraries dependency : numpy and colorama
